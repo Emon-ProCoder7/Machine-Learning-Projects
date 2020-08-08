@@ -16,7 +16,7 @@
   
 ### Project Goals:
   
-   My model would classify Benign & Malignant Breast Cancer with highest accuracy.
+   - My model would classify Benign & Malignant Breast Cancer with highest accuracy.
 
 
 Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/Breast_cancer_classifier.ipynb)
