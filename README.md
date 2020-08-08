@@ -7,6 +7,22 @@
 <img align="left" alt="Python" width="67px" src="https://badges.pufler.dev/visits/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics" />
   
 
+
+# **Classification Models**  
+
+## Breast Cancer Classification
+
+  In this project, I have build a K-Nearest Neighbor classifier that is trained to predict whether a patient has benign or malignant breast cancer.
+  
+### Project Goals:
+  
+   My model would classify Benign & Malignant Breast Cancer with highest accuracy.
+
+
+Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/Breast_cancer_classifier.ipynb)
+
+
+
 # **Regression Models**  
 
 ## Feature Engineering
