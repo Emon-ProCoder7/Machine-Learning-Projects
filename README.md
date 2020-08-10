@@ -40,6 +40,21 @@
 
 
 
+## Titanic Survival Prediction
+
+  In this project I've build Regression model that predicts which passengers survived the sinking of the Titanic, based on features.The data I'll be using for training the model is provided by [Kaggle Titanic competition!](https://www.kaggle.com/c/titanic)
+  
+### Project Goals:
+  
+   Predicting what happened to:
+  
+   - 3rd class passenger `Jack`, 
+   - 1st class passenger `Rose` and
+   - 3rd class youngest passenger onboard `Millvina Dean`
+
+
+[Click Here] [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/Titanic_survival.ipynb)
+
   
 ## Prediction of Future Production
 
