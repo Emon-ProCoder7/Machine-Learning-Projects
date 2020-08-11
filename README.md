@@ -4,7 +4,7 @@
 
 
 [![Author](https://img.shields.io/badge/author-MdTabassumHossainEmon-orange)](https://github.com/Emon-ProCoder7)
-<img align="left" alt="Python" width="67px" src="https://badges.pufler.dev/visits/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics" />
+
   
 
 
