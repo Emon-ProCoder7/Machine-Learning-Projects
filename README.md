@@ -19,7 +19,7 @@
    - My model would classify Benign & Malignant Breast Cancer with highest accuracy.
 
 
-[👈🏻Click Here] [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/Breast_cancer_classifier.ipynb)
+👈🏻 Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/Breast_cancer_classifier.ipynb)
 
 
 
@@ -43,7 +43,7 @@ In this project, I've used decision trees to try to predict the continent of fla
    - From which **Continent** the ***Flag***☝🏻 is from ? 
 
 
-[👈🏻Click here] [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/Guessing_flag.ipynb)
+👈🏻 Click here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/Guessing_flag.ipynb)
 
 
 
@@ -60,7 +60,7 @@ In this project, I've used decision trees to try to predict the continent of fla
   - To determine what it takes to be one of the best tennis players in the world.
   
   
-[👈🏻Click Here] [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/Feature_engineering.ipynb)
+👈🏻 Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/Feature_engineering.ipynb)
 
 
 
@@ -77,7 +77,7 @@ In this project, I've used decision trees to try to predict the continent of fla
    - 3rd class youngest passenger onboard `Millvina Dean`
 
 
-[👈🏻Click Here] [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/Titanic_survival.ipynb)
+👈🏻 Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/Titanic_survival.ipynb)
 
   
 ## Prediction of Future Production
@@ -87,6 +87,6 @@ In this project, I've used decision trees to try to predict the continent of fla
   DataFrame about honey production in the United States is collected from [Kaggle](https://www.kaggle.com/).
   
   
-[👈🏻Click Here] [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/honey_production.ipynb)
+👈🏻 Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/honey_production.ipynb)
   
   
