@@ -23,6 +23,30 @@
 
 
 
+
+# **Decision Trees**  
+
+## Guessing Continent From Flag Color
+
+  What are some of the features that would provide clue for defining **Continent** of a country from just their **flag**? Maybe some of the ***colors*** are good indicators. The presence or absence of certain ***shapes*** could provide a hint.
+
+In this project, I've used decision trees to try to predict the continent of flags based on several of these features.The Flag Attribute Information for this dataset is from [UCI’s Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Flags). 
+  
+  <br/>
+  
+  <img align="center" alt="flag" width="202px" src="https://raw.githubusercontent.com/Emon-ProCoder7/Machine-Learning-Projects/master/flag.png" />
+  
+  <br/>
+  
+### Project Goals:
+  
+   - From which **Continent** the ***Flag***☝🏻 is from ? 
+
+
+[Click here to see the project] [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/Guessing_flag.ipynb)
+
+
+
 # **Regression Models**  
 
 ## Feature Engineering
