@@ -8,9 +8,9 @@
   
 
 
-# **Classification Models**  
+# **KNN Classification Models**  
 
-## Breast Cancer Classification
+## 01. Breast Cancer Classification
 
   In this project, I have build a K-Nearest Neighbor classifier that is trained to predict whether a patient has benign or malignant breast cancer.
   
@@ -24,9 +24,22 @@
 
 
 
-# **Decision Trees**  
+# **Decision Trees and Random Forest**  
 
-## Guessing Continent From Flag Color
+
+## 01. Predicting Income with Random Forest
+
+  In this project, I will be using a dataset containing census information from [UCI’s Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/census+income).
+By using this census data with a random forest, I will try to predict whether or not a person makes more than 50,000 Dollar.
+  
+
+👈🏻 Click here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/Income_prediction.ipynb)
+
+
+
+
+
+## 02. Guessing Continent From Flag Color
 
   What are some of the features that would provide clue for defining **Continent** of a country from just their **flag**? Maybe some of the ***colors*** are good indicators. The presence or absence of certain ***shapes*** could provide a hint.
 
@@ -49,7 +62,7 @@ In this project, I've used decision trees to try to predict the continent of fla
 
 # **Regression Models**  
 
-## Feature Engineering
+## 01. Feature Engineering
 
   Here I've deployed single, double and multiple features linear regression models, for feature selection and model tuning.
   
@@ -64,7 +77,7 @@ In this project, I've used decision trees to try to predict the continent of fla
 
 
 
-## Titanic Survival Prediction
+## 02. Titanic Survival Prediction
 
   In this project I've build Regression model that predicts which passengers survived the sinking of the Titanic, based on features.The data I'll be using for training the model is provided by [Kaggle Titanic competition!](https://www.kaggle.com/c/titanic)
   
@@ -80,7 +93,7 @@ In this project, I've used decision trees to try to predict the continent of fla
 👈🏻 Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/Titanic_survival.ipynb)
 
   
-## Prediction of Future Production
+## 03. Prediction of Future Production
 
   The **Honeybees** are in a precarious state right now. There have been articles about the decline of the honeybee population for various reasons. This project is to investigate this decline and how the trends of the past predict the future for the honeybees.
   
