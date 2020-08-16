@@ -60,6 +60,34 @@ In this project, I've used decision trees to try to predict the continent of fla
 
 
 
+
+
+# **Neural Networks**  
+
+## 01. Perceptron Implementation in Logic Gates
+
+  In this project, I've used building blocks of *Neural Network: perceptrons* to model the fundamental building blocks of computers — logic gates.
+
+1. AND gate - The table below shows the results of an AND gate. Given two inputs, an AND gate will output a 1 only if both inputs are a 1.
+2. XOR gate — a gate that outputs a 1 only if one of the inputs is a 1.
+
+<img align="center" alt="Profile" width="502px" src="https://raw.githubusercontent.com/Emon-ProCoder7/Machine-Learning-Projects/master/logic.PNG">
+  
+### Project Goals:
+  
+   - AND gate can be thought of as **linearly separable** data and *Perceptron* can be trained to perform AND.
+   - XOR gate isn’t **linearly separable** and a *Perceptron* fails to learn XOR.
+
+
+
+👈🏻 Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/perceptron_logic_gates.ipynb)
+
+
+
+
+
+
+
 # **Regression Models**  
 
 ## 01. Feature Engineering
