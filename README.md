@@ -21,7 +21,7 @@
 
 👈🏻 Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/Breast_cancer_classifier.ipynb)
 
-
+<br><br><br>
 
 
 # **Decision Trees and Random Forest**  
@@ -36,7 +36,7 @@ By using this census data with a random forest, I will try to predict whether or
 👈🏻 Click here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/Income_prediction.ipynb)
 
 
-
+<br><br>
 
 
 ## 02. Guessing Continent From Flag Color
@@ -60,7 +60,7 @@ In this project, I've used decision trees to try to predict the continent of fla
 
 
 
-
+<br><br><br>
 
 # **Neural Networks**  
 
@@ -85,7 +85,7 @@ In this project, I've used decision trees to try to predict the continent of fla
 
 
 
-
+<br><br><br>
 
 
 # **Regression Models**  
@@ -103,7 +103,7 @@ In this project, I've used decision trees to try to predict the continent of fla
   
 👈🏻 Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/Feature_engineering.ipynb)
 
-
+<br><br>
 
 ## 02. Titanic Survival Prediction
 
@@ -120,6 +120,7 @@ In this project, I've used decision trees to try to predict the continent of fla
 
 👈🏻 Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/Titanic_survival.ipynb)
 
+<br><br>
   
 ## 03. Prediction of Future Production
 
