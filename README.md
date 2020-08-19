@@ -45,11 +45,11 @@ By using this census data with a random forest, I will try to predict whether or
 
 In this project, I've used decision trees to try to predict the continent of flags based on several of these features.The Flag Attribute Information for this dataset is from [UCI’s Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Flags). 
   
-  <br/>
+  <br>
   
   <img align="center" alt="flag" width="202px" src="https://raw.githubusercontent.com/Emon-ProCoder7/Machine-Learning-Projects/master/flag.png" />
   
-  <br/>
+  
   
 ### Project Goals:
   
@@ -62,7 +62,7 @@ In this project, I've used decision trees to try to predict the continent of fla
 
 <br><br><br><br>
 
-<h1 align = 'center'><strong> Neural Networks </h1> 
+<h1 align = 'center'> Neural Networks </h1> 
 
 ## 01. Perceptron Implementation in Logic Gates
 
