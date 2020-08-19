@@ -8,7 +8,7 @@
   
 
 
-# **KNN Classification Models**  
+<h1 align = 'center'> KNN Classification Models </h1>  
 
 ## 01. Breast Cancer Classification
 
@@ -21,10 +21,10 @@
 
 👈🏻 Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Machine-Learning-Projects/blob/master/Breast_cancer_classifier.ipynb)
 
-<br><br><br>
+<br><br><br><br>
 
 
-# **Decision Trees and Random Forest**  
+<h1 align = 'center'> Decision Trees and Random Forest </h1> 
 
 
 ## 01. Predicting Income with Random Forest
@@ -60,9 +60,9 @@ In this project, I've used decision trees to try to predict the continent of fla
 
 
 
-<br><br><br>
+<br><br><br><br>
 
-# **Neural Networks**  
+<h1 align = 'center'><strong> Neural Networks </h1> 
 
 ## 01. Perceptron Implementation in Logic Gates
 
@@ -85,10 +85,10 @@ In this project, I've used decision trees to try to predict the continent of fla
 
 
 
-<br><br><br>
+<br><br><br><br>
 
 
-# **Regression Models**  
+<h1 align = 'center'> Regression Models </h1>
 
 ## 01. Feature Engineering
 
