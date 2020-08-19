@@ -8,7 +8,7 @@
   
 
 
-<h1 align = 'center'> KNN Classification Models </h1>  
+<h1 align = 'center'><strong> KNN Classification Models </strong></h1>  
 
 ## 01. Breast Cancer Classification
 
@@ -24,7 +24,7 @@
 <br><br><br><br>
 
 
-<h1 align = 'center'> Decision Trees and Random Forest </h1> 
+<h1 align = 'center'><strong> Decision Trees and Random Forest </strong></h1> 
 
 
 ## 01. Predicting Income with Random Forest
@@ -62,7 +62,7 @@ In this project, I've used decision trees to try to predict the continent of fla
 
 <br><br><br><br>
 
-<h1 align = 'center'> Neural Networks </h1> 
+<h1 align = 'center'><strong> Neural Networks </strong></h1> 
 
 ## 01. Perceptron Implementation in Logic Gates
 
@@ -88,7 +88,7 @@ In this project, I've used decision trees to try to predict the continent of fla
 <br><br><br><br>
 
 
-<h1 align = 'center'> Regression Models </h1>
+<h1 align = 'center'><strong> Regression Models </strong></h1>
 
 ## 01. Feature Engineering
 
