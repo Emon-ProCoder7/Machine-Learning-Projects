@@ -47,7 +47,7 @@ In this project, I've used decision trees to try to predict the continent of fla
   
   <br>
   
-  <img align="center" alt="flag" width="202px" src="https://raw.githubusercontent.com/Emon-ProCoder7/Machine-Learning-Projects/master/flag.png" />
+  <p align="center"><img alt="flag" width="202px" src="https://raw.githubusercontent.com/Emon-ProCoder7/Machine-Learning-Projects/master/flag.png" /></p>
   
   
   
@@ -71,7 +71,7 @@ In this project, I've used decision trees to try to predict the continent of fla
 1. AND gate - The table below shows the results of an AND gate. Given two inputs, an AND gate will output a 1 only if both inputs are a 1.
 2. XOR gate — a gate that outputs a 1 only if one of the inputs is a 1.
 
-<img align="center" alt="Profile" width="502px" src="https://raw.githubusercontent.com/Emon-ProCoder7/Machine-Learning-Projects/master/logic.PNG">
+<p align="center"><img alt="Profile" width="502px" src="https://raw.githubusercontent.com/Emon-ProCoder7/Machine-Learning-Projects/master/logic.PNG"></p>
   
 ### Project Goals:
   
